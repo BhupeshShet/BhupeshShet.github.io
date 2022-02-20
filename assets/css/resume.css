@@ -1,0 +1,52 @@
+body{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.sub_heading{
+    margin-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 18px;
+}
+
+.sub_heading_div{
+    
+    background-color: rgb(117, 166, 230);
+}
+
+.thead-dark{
+    color: black;
+}
+.title{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.email{
+    color: rgb(34, 151, 180);
+    text-decoration: none;
+}
+
+.email:hover{
+    text-decoration: underline;
+    color: blue;
+}
+
+.mobile_number{
+    color: rgb(34, 151, 180);
+    text-decoration: none;
+}
+
+.mobile_number:hover{
+    text-decoration: underline;
+    color: blue;
+}
+
+.skills{
+    margin-left: 20px;
+}
+
+p{
+    margin-left: 15px;
+}
